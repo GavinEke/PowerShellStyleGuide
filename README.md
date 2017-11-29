@@ -11,6 +11,8 @@
 - A whitespace is required around operators
 - A whitespace is required after a seperator
 - There should be no trailing whitespace on lines
+- Code must not use aliases
+- Parameters should be called by parameter name not parameter position
 - All files must end on a new line
 
 Example:
