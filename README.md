@@ -10,6 +10,7 @@
 - A whitespace is required before an open paren
 - A whitespace is required around operators
 - A whitespace is required after a seperator
+- There should be no trailing whitespace on lines
 - All files must end on a new line
 
 Example:
