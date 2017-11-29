@@ -12,7 +12,7 @@
 - A whitespace is required after a seperator
 - There should be no trailing whitespace on lines
 - Code must not use aliases
-- Parameters should be called by parameter name not parameter position
+- Parameters should be called by parameter name
 - All files must end on a new line
 
 Example:
