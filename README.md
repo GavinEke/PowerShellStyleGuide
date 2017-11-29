@@ -1,4 +1,4 @@
-# PowerShell Style Guide for Projects by Gavin Eke
+# PowerShell Style Guide
 
 - Code must use One True Brace Style (OTBS)
 - Code must be indented between braces
