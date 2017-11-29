@@ -5,7 +5,7 @@
 - Indents must use 4 spaces
 - Functions must always start with CmdletBinding
 - Functions must include a Begin, Process and End blocks
-- Function and Variable names should use PascalCase
+- Function and variable names should use PascalCase
 - A whitespace is required before an open brace
 - A whitespace is required before an open paren
 - A whitespace is required around operators
